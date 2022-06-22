@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-portA8/static/css/main.d1692a3a.css",
+    "main.js": "/web-portA8/static/js/main.959e788f.js",
+    "index.html": "/web-portA8/index.html",
+    "main.d1692a3a.css.map": "/web-portA8/static/css/main.d1692a3a.css.map",
+    "main.959e788f.js.map": "/web-portA8/static/js/main.959e788f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1692a3a.css",
+    "static/js/main.959e788f.js"
+  ]
+}
